@@ -6,7 +6,7 @@ export function Home() {
   return (
     <CardContainer>
         <IconContainer>
-            <img src="{iconStarImg}" alt="ícone de estrela" />
+            <img src={iconStarImg} alt="ícone de estrela" />
         </IconContainer>
 
         <h1>Como foi o atendimento?</h1>
